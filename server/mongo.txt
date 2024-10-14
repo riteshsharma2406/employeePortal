@@ -1,0 +1,4 @@
+username - riteshsharma
+password - riteshsharma
+
+mongodb+srv://riteshsharma:riteshsharma@cluster0.eovcy.mongodb.net/
