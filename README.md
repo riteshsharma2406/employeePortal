@@ -32,4 +32,4 @@ Make sure you have the following installed:
 - [Postman](https://www.postman.com/)
 
 ### Video URL 
-`https://drive.google.com/file/d/1nYxtOohMImn3DUIHVKxIptvf-ndIrFy_/view`
+- [Demo Video](https://drive.google.com/file/d/1nYxtOohMImn3DUIHVKxIptvf-ndIrFy_/view)
